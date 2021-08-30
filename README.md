@@ -1,4 +1,4 @@
-### Eai!!Tudo bem? Eu sou o _Yuri_, bem-vindx ao meu perfil! 😄 👋
+### Eai!! Tudo bem? Eu sou o _Yuri_, bem-vindx ao meu perfil! 😄 👋
 
 - 🔭 Hoje estou trabalhando como estagiário na área de T.I com apoio ao suporte Help Desk.
 - 🌱 Atualmente estudando Javascript Intermediário e Angular 9 básico // Além disso, em segundo plano estou estudando NodeJs intermediário também.
