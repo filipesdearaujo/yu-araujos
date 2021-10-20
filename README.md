@@ -1,7 +1,7 @@
 ### Eai!! Tudo bem? Eu sou o _Yuri_, bem-vindx ao meu perfil! 😄 👋
 
-- 🔭 Hoje estou trabalhando como estagiário na área de T.I com apoio ao suporte Help Desk.
-- 🌱 Atualmente estudando Javascript Intermediário e Angular 9 básico // Além disso, em segundo plano estou estudando NodeJs intermediário também.
+- 🔭 Hoje estou trabalhando como Analista de Sistemas Júnior na Beyond Soluções, sendo alocado no BTG Pactual Digital. Lá estou como desenvolvedor back-end :)
+- 🌱 Sempre estou buscando constante evolução.
 - 📫 Contate-me no e-mail: y.araujos@outlook.com ou no Linkedin: https://www.linkedin.com/in/yuriaraujoo/
 - 😄 Pronomes: ele/dele
 ##
