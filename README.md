@@ -1,6 +1,6 @@
 ### Eai!! Tudo bem? Eu sou o _Yuri_, bem-vindx ao meu perfil! 😄 👋
 
-- 🔭 Hoje estou trabalhando como Analista de Sistemas Júnior na Beyond Soluções, sendo alocado no BTG Pactual Digital. Lá estou como desenvolvedor back-end :)
+- 🔭 Hoje estou trabalhando como Analista de Sistemas Júnior na Beyond Soluções, sendo alocado no BTG Pactual Digital. Lá estou como desenvolvedor front-end, atuando com o framework Angular :)
 - 🌱 Sempre estou buscando constante evolução.
 - 📫 Contate-me no e-mail: y.araujos@outlook.com ou no Linkedin: https://www.linkedin.com/in/yuriaraujoo/
 - 😄 Pronomes: ele/dele
