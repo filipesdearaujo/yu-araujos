@@ -1,6 +1,6 @@
 ### Eai!! Tudo bem? Eu sou o _Yuri_! 😄 👋
 
-- 🔭 Hoje estou trabalhando como Analista de Sistemas Júnior na Beyond Soluções, sendo alocado no BTG Pactual Digital. Lá estou como desenvolvedor front-end, atuando com o framework Angular :)
+- 🔭 Hoje estou trabalhando como IT Assistant no BTG Pactual Digital. Atuo como desenvolvedor front-end utilizando o framework Angular :)
 - 🌱 Sempre estou buscando constante evolução.
 - 📫 Contate-me no e-mail: yu.dev@icloud.com ou no Linkedin: https://www.linkedin.com/in/yuriaraujoo/
 
