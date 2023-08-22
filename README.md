@@ -7,7 +7,6 @@
 ##
  <div>
   <a href="https://github.com/yu-araujos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yu-araujos&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-araujos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
