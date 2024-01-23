@@ -1,6 +1,6 @@
 ### Hi! I`m  _Yuri_ a Front End Developer! 😄 👋
 
-- 🔭 Currently working as a Front End Developer using Angular, Typescript, Node.JS and others technologys. I'm a IT Assistant at BTG Pactual Digital. :)
+- 🔭 Currently working as a Front End Developer using Angular, Typescript, Node.JS and others technologies. I'm a IT Assistant at BTG Pactual Digital. :)
 - 🌱 I'm always searching a constantly evolution.
 - 📫 To contact me send a mail to: yuri.araujos@icloud.com or text me on LinkedIn: https://www.linkedin.com/in/yuriaraujoo/
 
